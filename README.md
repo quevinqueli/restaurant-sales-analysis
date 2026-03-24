@@ -1,4 +1,4 @@
-Restaurant Sales Analysis
+Restaurant Sales Analysis,
 Analyst: Quévin Quéli  
 Date: 23, March 2026  
 Tool: Google BigQuery (SQL)  
